@@ -17,7 +17,7 @@ const NavBar= () =>{
                         <MeuLink to='/produtos'>Produtos</MeuLink>
                     </ul>
                 </li>
-                <MeuLink to='/login'>Login</MeuLink>
+                
             </ul>
         </nav>
     )
